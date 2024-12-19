@@ -1,0 +1,160 @@
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/1_animal/711000000000.jpg
+a drawing of a brown bear sitting down
+a drawing of a [golden] brown bear sitting down
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/1_animal/711000000001.jpg
+a colorful bird sitting on a branch with a green background
+a colorful [wooden] bird sitting on a branch with a green background
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/1_animal/711000000002.jpg
+a blue butterfly with sparkles on its wings
+a blue [diamond] butterfly with sparkles on its wings
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/1_animal/711000000003.jpg
+a deer with large antlers in low polygonal style
+a [iron] deer with large antlers in low polygonal style
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/1_animal/711000000004.jpg
+a kitten
+a [stone] kitten
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/2_human/712000000000.jpg
+a woman in a kimono sitting on a rock
+a [robot] woman in a kimono sitting on a rock
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/2_human/712000000001.jpg
+a drawing of a young man with blue eyes
+a drawing of a young [robot] man with blue eyes
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/2_human/712000000002.jpg
+a woman in a kimono standing in a river
+a [stone] woman in a kimono standing in a river
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/2_human/712000000003.jpg
+two boys in the water with sticks and buckets
+two [golden] boys in the water with sticks and buckets
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/2_human/712000000004.jpg
+a cartoon couple standing on the beach
+a cartoon [wooden] couple standing on the beach
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/3_indoor/713000000000.jpg
+a sketch of a kitchen and dining area with two chairs
+a sketch of a kitchen and dining area with two [diamond] chairs
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/3_indoor/713000000001.jpg
+illustration of a cup and a lamp on a table by a window
+illustration of a cup and a [stone] lamp on a table by a window
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/3_indoor/713000000002.jpg
+a modern living room with black sofa and a black wall
+a modern living room with black [golden] sofa and a black wall
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/3_indoor/713000000003.jpg
+a couch with a green curtain and a window
+a [wooden] couch with a green curtain and a window
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/3_indoor/713000000004.jpg
+a cartoon kitchen with a stove, sink and cabinets
+a cartoon kitchen with a stove, sink and [wooden] cabinets
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/4_outdoor/714000000000.jpg
+a close up of a red leaf on a plant
+a close up of a red [diamond] leaf on a plant
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/4_outdoor/714000000001.jpg
+a house in the fog with a path leading to it
+a [stone] house in the fog with a path leading to it
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/4_outdoor/714000000002.jpg
+a lantern in the forest with trees and lights
+a [iron] lantern in the forest with trees and lights
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/4_outdoor/714000000003.jpg
+the crescent moon and stars are seen in the night sky
+the [golden] crescent moon and stars are seen in the night sky
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/1_artificial/4_outdoor/714000000004.jpg
+eggs in a basket on the grass
+[golden] eggs in a basket on the grass
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/1_animal/721000000000.jpg
+a photo of a horse in the field
+a photo of a [robot] horse in the field
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/1_animal/721000000001.jpg
+a robin is perched on a branch in the snow
+a [golden] robin is perched on a branch in the snow
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/1_animal/721000000002.jpg
+a ladybug with black spots on its back is sitting on a leaf
+a [diamond] ladybug with black spots on its back is sitting on a leaf
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/1_animal/721000000003.jpg
+a yound lion
+a [diamond] yound lion
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/1_animal/721000000004.jpg
+a cat with blue eyes sitting on a rock
+a [robot] cat with blue eyes sitting on a rock
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/2_human/722000000000.jpg
+a man wearing a shirt
+a man wearing a [golden] shirt
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/2_human/722000000001.jpg
+a man sitting in a room
+a [stone] man sitting in a room
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/2_human/722000000002.jpg
+a woman in a black tank top and pink shorts is about to hit a tennis ball
+a [iron] woman in a black tank top and pink shorts is about to hit a tennis ball
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/2_human/722000000003.jpg
+a woman in a black bikini top and yoga pants is meditating
+a [wooden] woman in a black bikini top and yoga pants is meditating
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/2_human/722000000004.jpg
+a woman in a gown
+a woman in a [golden] gown
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/3_indoor/723000000000.jpg
+a chair
+a [stone] chair
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/3_indoor/723000000001.jpg
+tomatoes in a bowl on a table
+tomatoes in a [iron] bowl on a table
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/3_indoor/723000000002.jpg
+a coffee cup with musical notes and a christmas tree
+a [wooden] coffee cup with musical notes and a christmas tree
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/3_indoor/723000000003.jpg
+a cake with candies on top
+a [golden] cake with candies on top
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/3_indoor/723000000004.jpg
+vintage camera, polaroid, travel, travel photography
+vintage [wooden] camera, polaroid, travel, travel photography
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/4_outdoor/724000000000.jpg
+snowdrops in the garden
+[stone] snowdrops in the garden
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/4_outdoor/724000000001.jpg
+a park with trees with flowers
+a park with trees with [golden] flowers
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/4_outdoor/724000000002.jpg
+the 2020 honda hrx is driving down the road
+the 2020 honda hrx is driving down the [golden] road
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/4_outdoor/724000000003.jpg
+a single rose in front of an orange wall
+a single [diamond] rose in front of an orange wall
+------------------------------------------------------------------------------------------------------------------
+data/annotation_images/7_change_attribute_material_40/2_natural/4_outdoor/724000000004.jpg
+a plant against a wall
+a [iron] plant against a wall

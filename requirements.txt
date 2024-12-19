@@ -1,0 +1,11 @@
+diffusers==0.25.0
+torch==1.13.0
+torchvision==0.14.0
+transformers==4.36.2
+huggingface_hub==0.21.4
+opencv-python
+einops
+omegaconf
+pytorch_lightning
+accelerate
+

@@ -46,7 +46,7 @@ It is recommended to run our code on a Nvidia GPU with a linux system. Currently
 
 Clone the repo:
 ```
-git clone https://github.com/Sugewud/TextureDiffusion.git
+git clone https://github.com/THU-CVML/TextureDiffusion.git
 cd TextureDiffusion
 ```
 

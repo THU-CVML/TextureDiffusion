@@ -77,12 +77,10 @@ Our code is based on these awesome repos:
 ## 📖 BibTeX
 If you find our repo helpful, please consider leaving a star or cite our paper :)
 ```bibtex
-@inproceedings{su2025texturediffusion,
+@article{su2025texturediffusion,
   title={TextureDiffusion: Target Prompt Disentangled Editing for Various Texture Transfer},
   author={Su, Zihan and Zhuang, Junhao and Yuan, Chun},
-  booktitle={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages={1--5},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
   year={2025},
-  organization={IEEE}
 }
 ```
